@@ -14,3 +14,4 @@
 -- +------+-----------------------------------+
 
 
+Select year, name from teams order by year Asc

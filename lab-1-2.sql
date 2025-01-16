@@ -15,3 +15,4 @@
 -- +------+-----------------------------------+------+
 
 
+Select year, name, wins from Teams order by wins asc
